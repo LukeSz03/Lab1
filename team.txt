@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Qingcheng Meng
+=======
+Luke Schultz
+Sanika Sisodia
+Nguyen Khang
+>>>>>>> a1f99179357b0eb45421f0c70f23fb84ab5a512a
